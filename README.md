@@ -1,0 +1,2 @@
+# libgamesession
+Game session library
